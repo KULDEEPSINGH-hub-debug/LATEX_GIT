@@ -5,3 +5,6 @@ A simple Python calculator .
 - Subtraction
 ## Run
 python main . py
+
+
+## Bhai moj ho gyi
